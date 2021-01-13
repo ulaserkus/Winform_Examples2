@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Projeler\showPhoto\showPhoto\bin\Debug\showPhoto.exe.config
+C:\Users\Asus\Desktop\Projeler\showPhoto\showPhoto\bin\Debug\showPhoto.exe
+C:\Users\Asus\Desktop\Projeler\showPhoto\showPhoto\bin\Debug\showPhoto.pdb
+C:\Users\Asus\Desktop\Projeler\showPhoto\showPhoto\obj\Debug\showPhoto.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\showPhoto\showPhoto\obj\Debug\showPhoto.Form1.resources
+C:\Users\Asus\Desktop\Projeler\showPhoto\showPhoto\obj\Debug\showPhoto.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\showPhoto\showPhoto\obj\Debug\showPhoto.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Projeler\showPhoto\showPhoto\obj\Debug\showPhoto.exe
+C:\Users\Asus\Desktop\Projeler\showPhoto\showPhoto\obj\Debug\showPhoto.pdb
